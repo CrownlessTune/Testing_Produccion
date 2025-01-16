@@ -1,5 +1,8 @@
 # Testing_Produccion
 
+<!-- hay muchas capturas que faltan por que las sobrecribí por imbécil y las prisas, sorry Alejandro -->
+
+
 # Evaluación Inicial de Estándares y Navegación
 
 ## Estándares Empleados en el Desarrollo
