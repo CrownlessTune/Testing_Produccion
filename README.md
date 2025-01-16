@@ -1,6 +1,6 @@
 # Testing_Produccion
 
-<!-- hay muchas capturas que faltan por que las sobrecribírlas por imbécil y las prisas, sorry Alejandro -->
+<!-- Hay muchas capturas que faltan al sobrecribírlas por imbécil y las prisas, sorry Alejandro -->
 
 
 # Evaluación Inicial de Estándares y Navegación
